@@ -1,4 +1,18 @@
 .header1{
     background-image: url("../images/assets/backgrounds/h_img.jpg");
     background-size: cover;
+    width: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.logo{
+    width: 55px;
+    padding-bottom: 20px;
+}
+.writing{
+    padding-top: 250px;
+    padding-bottom: 50px;
+    color: aliceblue;
+    text-align: center;
 }
