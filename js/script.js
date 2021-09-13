@@ -39,7 +39,7 @@ $(document).ready(function(){
       var email = $("input#MERGE0").val();
       var message = $("textarea#comment").val();
       if ($("input#MERGE1").val() && $("input#MERGE0").val()){
-        alert (name + "Hey we have received your message. we will get back to you soon.:)");
+        alert (name + "Hello we have received your message.Thank you . we will get back to you soon.:)");
       }
       else {
         alert(" enter a valid email and name!");
